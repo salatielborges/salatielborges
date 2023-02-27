@@ -1,7 +1,7 @@
 <h1 align='center'> Ola 👋, Eu sou o Salatiel  👨‍💻 </h1>
 
 <p align='center'>
-  Moro em Goiânia, Brasil e sou atuo como <b>DevOps SeniorCESAR</b> 
+  Moro em Goiânia, Brasil e sou atuo como <b>DevOps Enginner Sr</b> 
 </p>
 
 <p align='center'>
