@@ -24,7 +24,9 @@
 
 <hr>
 
-<h4>🔭  Atualmente estou trabalhando como ...</h4>
+<h4>🔭  Atualmente estou trabalhando como ... <p align='center'>
+  🔭 I’m currently working with ...
+  </p>  </h4>
 
 <h5>DevOps Enginner</h5>
 <p >
