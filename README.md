@@ -3,7 +3,7 @@
 
 <p align='center'>
   Moro em Goiânia, Brasil e sou atuo como <b>DevOps Enginner Sr</b> 
-  </p><p>I live in Goiânia, Brazil and I work as a <b>DevOps Engineer Sr.</b> 
+  </p> <p I live in Goiânia, Brazil and I work as a <b>DevOps Engineer Sr.</b> 
 </p>
 
 <p align='center'>
