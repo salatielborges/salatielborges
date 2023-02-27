@@ -54,6 +54,4 @@
 <h5 align="right">🎮 Para se divertir e passar o tempo... <p align="right"> 🎮 To have fun and spend time...</p></h5>
 </p>
 
-![Snake anitamtion](https://github.com/salatielborges/salatielborges/blob/output/github-contribution-grid-snake.svg)
-
 
